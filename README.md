@@ -6,4 +6,6 @@
 ### My Tech Stack:
 **JavaScript, React.js + Redux/MobX**, HTML, CSS (CSS modules, Styled Components, SCSS, LESS, BEM).
 
+[CV](https://github.com/julish13/CV/blob/main/Kolupaeva_CV_ReactDev.pdf)
+
 

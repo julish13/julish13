@@ -2,4 +2,4 @@
 #### Currently based in Tbilisi, Georgia 🇬🇪.
 
 ### My Tech Stack:
-JavaScript, TypeScript, React.js + Redux/MobX, HTML, CSS (CSS modules, Styled Components, SCSS, LESS, BEM, MaterialUI).
+JavaScript, TypeScript, React.js + Redux/MobX, HTML, CSS (CSS modules, Styled Components, SCSS, LESS, BEM).

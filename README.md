@@ -1,5 +1,12 @@
-### Hi there, I am Yulia Kolupaeva. 👩‍💻 Frontend Developer.
-#### Currently based in Tbilisi, Georgia 🇬🇪.
+### hi, I'm Yulia 👋
 
-### My Tech Stack:
-JavaScript, TypeScript, React.js + Redux/MobX, HTML, CSS (CSS modules, Styled Components, SCSS, LESS, BEM).
+founding engineer building products end-to-end.
+frontend roots, now full-stack — React Native, Node.js, Postgres.
+
+lately: building harnesses around coding agents.
+skills, context management, workflow automation.
+main driver — Claude Code.
+
+based in Limassol 🇨🇾
+
+**stack:** TypeScript · React / React Native / Expo · Node.js / Fastify · Prisma · PostgreSQL · Redis · BullMQ

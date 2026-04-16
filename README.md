@@ -1,7 +1,7 @@
 ### hi, I'm Yulia 👋
 
 founding engineer building products end-to-end.
-frontend roots, now full-stack — React Native, Node.js, Postgres.
+frontend roots, now full-stack.
 
 lately: building harnesses around coding agents.
 skills, context management, workflow automation.

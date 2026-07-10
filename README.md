@@ -10,8 +10,6 @@ building harnesses around coding agents:
 - context management
 - workflow automation
 
-main driver — `Claude Code`
-
 #### stack
 
 `TypeScript` · `React / React Native / Expo` · `Node.js / Fastify` · `Prisma` · `PostgreSQL` · `Redis` · `BullMQ`
